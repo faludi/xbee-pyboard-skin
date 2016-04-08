@@ -8,7 +8,9 @@ The <a href="http://micropython.org">MicroPython project</a> created a reference
 The XBee Skin for MicroPython connects any through-hole XBee module directly to the reference pyboard. It supports the XBee's association indicator and RSSI signal strength output lights, and features a more conveniently positioned reset button for the pyboard itself.
 
 Building the board requires two off-the-shelf components:
-<a href="https://www.sparkfun.com/products/116">0.1" male breakaway headers</a>
-<a href="https://www.sparkfun.com/products/8272">2mm 10-pin female headers</a> used as the XBee socket
+<ul>
+<li><a href="https://www.sparkfun.com/products/116">0.1" male breakaway headers</a></li>
+<li><a href="https://www.sparkfun.com/products/8272">2mm 10-pin female headers</a> used as the XBee socket</li>
+</ul>
 
 Printed circuit boards can be ordered from <a href="https://oshpark.com/shared_projects/8GL4dNoX">OSH Park</a>.
