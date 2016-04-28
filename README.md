@@ -101,4 +101,11 @@ Building the board requires two off-the-shelf components:
 <li><a href="https://www.sparkfun.com/products/8272">2mm 10-pin female headers</a> used as the XBee socket</li>
 </ul>
 
-Printed circuit boards can be ordered from <a href="https://oshpark.com/shared_projects/8GL4dNoX">OSH Park</a>.
+Optional components are:
+<ul>
+<li>2 - <a href="http://www.digikey.com/product-search/en?keywords=541-220GCT-ND">SMT 220 ohm resistors in 0603 package size</a></li>
+<li>2 - <a href="https://www.digikey.com/product-search/en?keywords=511-1585-1-ND">SMT LEDs in 0603 package size</a></li>
+<li>1 - <a href="https://www.sparkfun.com/products/8720">SMT tactile switch</a></li>
+</ul>
+
+Printed circuit boards can be ordered from <a href="https://oshpark.com/shared_projects/VDeE8qlG">OSH Park</a>.
