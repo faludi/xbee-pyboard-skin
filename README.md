@@ -97,8 +97,8 @@ The skin can be mounted in two different orientations, covering either the pyboa
 
 Building the board requires two off-the-shelf components:
 <ul>
-<li><a href="https://www.sparkfun.com/products/116">0.1" male breakaway headers</a></li>
-<li><a href="https://www.sparkfun.com/products/8272">2mm 10-pin female headers</a> used as the XBee socket</li>
+<li>2 - 10 pin <a href="https://www.sparkfun.com/products/116">0.1" male breakaway headers</a></li>
+<li>2 - <a href="https://www.sparkfun.com/products/8272">2mm 10-pin female headers</a> used as the XBee socket</li>
 </ul>
 
 Optional components are:
